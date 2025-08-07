@@ -1,35 +1,36 @@
-# React ToDo CRUD
+# React ToDo CRUD App
 
-A simple and modular ToDo application built using **ReactJS**.  
-This project demonstrates full **CRUD operations** (Create, Read, Update, Delete) using React hooks and component-based architecture.
+A clean and modular ToDo application built using **ReactJS**, **Vite**, and **Tailwind CSS**.  
+This project demonstrates core **CRUD operations** (Create, Read, Delete) with a neat component-based architecture and styled UI.
 
 ## 🔧 Features
 
-- Add new tasks
-- View all tasks
-- Delete tasks
-- Internal CSS styling
+- Add new tasks  
+- View task list  
+- Delete tasks  
+- Clean UI with Tailwind CSS
 
 ## 🚀 Tech Stack
 
-- ReactJS
-- JavaScript
-- Vite (for fast build & dev server)
-- nanoid (for unique task IDs)
+- ReactJS  
+- JavaScript  
+- Vite  
+- nanoid  
+- Tailwind CSS
 
-## 🧠 Learning Outcomes
+## 🧠 Key Concepts
 
-- useState for managing state
-- Component communication via props
-- Basic styling with internal CSS
+- State management using `useState`  
+- Component communication via props  
+- Internal styling with Tailwind CSS  
+- Unique IDs generation for list items
 
-## 🛠️ Setup Instructions
+## 🛠️ Getting Started
 
 ```bash
-git clone https://github.com/yourusername/react-todo-crud.git
+git clone https://github.com/Devu2004/react-todo-crud.git
 cd react-todo-crud
 npm install
 npm run dev
 ```
-
 
