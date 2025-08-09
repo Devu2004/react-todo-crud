@@ -16,7 +16,7 @@ This project demonstrates core **CRUD operations** (Create, Read, Delete) with a
 - JavaScript  
 - Vite  
 - nanoid  
-- Tailwind CSS
+- Tailwind CSS        
 
 ## 🧠 Key Concepts
 
